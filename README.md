@@ -1,3 +1,5 @@
+[![@manish831's Holopin board](https://holopin.io/api/user/board?user=manish831)](https://holopin.io/@manish831)
+
 ### Hi there 👋
 
 <!--
@@ -14,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <h1 align="center">Hi 👋, I'm Manish Agrahari</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and Machine Learning Enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manish831&label=Profile%20views&color=0e75b6&style=flat" alt="manish831" /> </p>
 
