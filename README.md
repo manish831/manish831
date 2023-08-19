@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manish831&show_icons=true&locale=en" alt="manish831" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish831&" alt="manish831" /></p>
+
+
+# 📚  Leetcode Stats: 
+[![ManishAgrahari's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=ManishAgrahari&theme=Light)](https://github.com/JeremyTsaii/leetcode-stats)
